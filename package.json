@@ -1,12 +1,12 @@
 {
-  "home":"https://Saurabh-singhx.github.io/To_Do_Application_QuadB_Tech",
+  "home": "https://Saurabh-singhx.github.io/To_Do_Application_QuadB_Tech",
   "name": "t",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "predeploy":"npm run build",
-    "deploy":"gh-pages -d dist",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist",
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
