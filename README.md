@@ -27,5 +27,5 @@ This project is built using:
 ### 📝 All Tasks 
 ![All Task](screenshots/All%20to%20do%20list.png)  
 
-### 🌤️View tesks  
+### 👁️View tasks  
 ![View Task](screenshots/to%20do%20view.png)  
