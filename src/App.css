@@ -1,0 +1,47 @@
+@media (max-width: 586px) {
+    .Two_Button{
+        gap:25px;
+     
+    }
+    .Three_Button{
+        gap:20px;
+     
+    }
+    .Selection_Buttons{
+        padding: 5px;
+        width: full;
+        flex-direction: column;
+        gap: 8px;
+    }
+    .Towbtn{
+       
+        width: 50vw;
+        
+    }
+    .Threebtn{
+        width: 50vw;
+        
+    }
+    .Selected1{
+        font-size: 13px;
+    }
+    .Selected2{
+        font-size: 13px;
+    }
+    .SelectionBtns{
+        width: 120px;
+        height: 40px;
+        padding: 0px;
+        margin: 0px;
+    }
+    .Search_bar{
+        width: 70vw;
+    }
+    .All_To_Do_Btns{
+        width: 80px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: 50px;
+    }
+}
