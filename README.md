@@ -16,3 +16,16 @@ This project is built using:
 ✅ Mark tasks as indoor or outdoor  
 ✅ Fetch weather info for outdoor tasks  
 ✅ Smooth and responsive UI
+
+## 📸 Screenshots  
+
+### Login Page
+![Login Page](screenshots/login%20page.png) 
+### 🏠 Home Page  
+![Home Page](screenshots/home%20page.png)  
+
+### 📝 All Tasks 
+![All Task](screenshots/All%20to%20do%20list.png)  
+
+### 🌤️View tesks  
+![View Task](screenshots/to%20do%20view.png)  
