@@ -17,6 +17,11 @@ This project is built using:
 ✅ Fetch weather info for outdoor tasks  
 ✅ Smooth and responsive UI
 
+## How to Use
+
+- **Email** – admin@mail.com
+- **Password** – 123
+
 ## 📸 Screenshots  
 
 ### Login Page
